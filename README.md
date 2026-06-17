@@ -53,14 +53,12 @@ Soy **Ingeniero de Sistemas** y **Desarrollador FullStack** apasionado por la cr
 
 #### 🏗️ Serpinco, Sistema de Gestión Integral (Sector Construcción)
 Desarrollo e ingeniería FullStack de una plataforma corporativa privada para una firma multinacional.
-* **Tech Stack:** Angular, NestJS, PostgreSQL (Consultas avanzadas, subconsultas y funciones de ventana para reportes financieros).
 * **Logros:** Implementación de arquitectura desacoplada, soporte multi-idioma nativo y despliegue continuo automatizado.
 * 🔒 *Nota: Código fuente privado bajo acuerdo de confidencialidad empresarial, arquitectura discutible en entornos profesionales.*
 * **Sitio**: https://serpinco.com/#/serpinco
 
 #### 🏍️ Moto Repuestos CH, Sistema de Control Comercial e Inventario
 Diseño, arquitectura y desarrollo FullStack de una plataforma integral para la gestión automatizada y venta de repuestos de motocicletas.
-* **Tech Stack:** Angular, NestJS, PostgreSQL (Estructuración relacional óptima e integridad de datos).
 * **Módulos Clave:** * **Ventas y Facturación:** Flujo ágil para el procesamiento de transacciones comerciales.
   * **Autogestión de Inventario:** Control de stock en tiempo real, alertas de reabastecimiento y trazabilidad de productos.
   * **Gestión de Personal y Clientes:** Control de accesos basado en roles (RBAC) para empleados y fidelización/historial de clientes.
