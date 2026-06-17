@@ -56,6 +56,7 @@ Desarrollo e ingeniería FullStack de una plataforma corporativa privada para un
 * **Tech Stack:** Angular, NestJS, PostgreSQL (Consultas avanzadas, subconsultas y funciones de ventana para reportes financieros).
 * **Logros:** Implementación de arquitectura desacoplada, soporte multi-idioma nativo y despliegue continuo automatizado.
 * 🔒 *Nota: Código fuente privado bajo acuerdo de confidencialidad empresarial, arquitectura discutible en entornos profesionales.*
+* **Sitio**: https://serpinco.com/#/serpinco
 
 #### 🏍️ Moto Repuestos CH, Sistema de Control Comercial e Inventario
 Diseño, arquitectura y desarrollo FullStack de una plataforma integral para la gestión automatizada y venta de repuestos de motocicletas.
