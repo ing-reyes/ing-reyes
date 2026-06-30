@@ -65,7 +65,7 @@ Diseño, arquitectura y desarrollo FullStack de una plataforma integral para la 
   * **Reportería Avanzada:** Módulo estadístico para la toma de decisiones basada en métricas de rendimiento comercial.
 * 🚀 *Logro:* Automatización completa de los procesos manuales de la empresa, reduciendo los tiempos de auditoría de inventario y optimizando el flujo de caja.
 
-#### 📐 Template: Hexagonal Architecture en NestJS/TypeScript
+#### 📐 Template: Hexagonal Architecture en NodeJS/TypeScript
 Repositorio público diseñado como base educativa y práctica para implementar arquitecturas limpias y desacopladas.
 * **Enfoque:** Demostración práctica de inversión de dependencias, separación de capas (Dominio, Aplicación e Infraestructura) y adaptadores configurables.
 * 🔗 [Explorar Repositorio](https://github.com/ing-reyes/hexagonal-architecture)
