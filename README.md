@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/171001900/620597474-3205d212-a6e2-4d2f-8e20-75fda26312e2.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM5NTYzMTIsIm5iZiI6MTc4Mzk1NjAxMiwicGF0aCI6Ii8xNzEwMDE5MDAvNjIwNTk3NDc0LTMyMDVkMjEyLWE2ZTItNGQyZi04ZTIwLTc1ZmRhMjYzMTJlMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxM1QxNTIwMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMTAxNDY0MmMwYTUzMjNhZmU4MmY4NTY1NjY5MDJmMmNkZTZkNmQxMDE0ZmY5MWNmYzJiYzZmMmM3YmE3NDk3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.oY1IgAaCJs3dgLi5YHrMDAG0EpeQ0kuv76avg_Gg8T8" width="180" alt="Luis Reyes"/>
+  <img src="https://github.com/ing-reyes/ing-reyes/blob/main/profile.png" width="180" alt="Luis Reyes"/>
 </p>
 
 <h1 align="center">Luis Reyes 👋</h1>
